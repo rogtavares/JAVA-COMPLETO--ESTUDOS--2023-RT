@@ -6,6 +6,8 @@ public class curso_programacao
         //aula17 e feito
 
         //Até o momento conseguimos criar uma classe e adicionar um método main()
-        // junto com o método de impressão sem muito esforço, mas como podemos fazer para executar o método main()?
-    }
+        // junto com o método de impressão sem muito esforço, mas como podemos fazer para executar o método main()
 }
+
+
+
