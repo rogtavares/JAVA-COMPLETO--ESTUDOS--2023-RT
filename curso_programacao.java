@@ -1,7 +1,7 @@
 public class curso_programacao
 {
     public static void main(String[] args) {
-        System.out.println();
+        System.out.println("Ola mundo do Java , RT!  Java é uma coisa boa ");
 
         //aula17 e feito
 
