@@ -3,7 +3,8 @@ import javafx.application.Application;
     public class TesteProcessanto {
         public static void main(String[] args) {
             int x;
-            double= y;
+            double=int y;
+            y;
             x = 5;
             y = 2 * x;
             System.out.println(x);
