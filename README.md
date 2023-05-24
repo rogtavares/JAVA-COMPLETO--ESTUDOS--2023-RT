@@ -17,6 +17,8 @@ Estudos completo de Java e OO, UML, JDBC, JavaFX, Spring Boot, JPA, Hibernate, M
 36 artigos
 51 recursos para download
 
+bora estudar 
+
 
 
 O professor Nélio Alves ensina muito bem, possui uma fala devagar que facilita para quem precisa , eu ?!

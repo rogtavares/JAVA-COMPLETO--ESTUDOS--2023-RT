@@ -1,7 +1,10 @@
 import javafx.application.Application;
 
     public class TesteProcessanto {
+        private static String[] args;
+
         public static void main(String[] args) {
+            TesteProcessanto.args = args;
             int x;
             double=int y;
             y;
