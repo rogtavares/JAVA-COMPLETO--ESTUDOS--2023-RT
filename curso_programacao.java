@@ -7,7 +7,6 @@ public class curso_programacao
 
         //Até o momento conseguimos criar uma classe e adicionar um método main()
         // junto com o método de impressão sem muito esforço, mas como podemos fazer para executar o método main()
-}
 
 
 
