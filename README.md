@@ -1,20 +1,20 @@
-# JAVA-COMPLETO-N.A-2023-RT_ESTUDOS
-Estudos e exercicios super completo e bem explicativas e detalhadas, 
-meu treino e estudos completo de Java e OO, UML, JDBC, JavaFX, 
-Spring Boot, JPA, Hibernate, MySQL, MongoDB e muito mais para nao 
-esquecer, nunca mas tem praticar 
+Estudando Java COMPLETO 2023
 
-54 horas de cursos  sob demanda
+Neste repositório,vou deixar registrado alguns exercícios que gosto de
+aprender a programar em Java , tudo dentro IDEA intellij.
 
-
-Bora estudar 
+Se você estiver interessado em seguir uma carreira como
+desenvolvedor de back-end, estude JAVA !
 
 
+Java COMPLETO 2023 meu treinamento  incluem :
+Programação Orientada a Objetos +Projetos
+Linguagem de programação (regras sintáticas)
+Plataforma de desenvolvimento e execução
+Bibliotecas (API) • Ambientes de execução
 
-O professor Nélio Alves ensina muito bem, possui uma fala devagar que 
-facilita para quem precisa , eu ?!
-Outros fatores negativos é que o numero de exercícios 
-diminui ao decorrer do curso, o que torna a experiência um pouco cansativa.
 
 
-Ge Tavares, 24 de abril
+O Java é uma coisa boa,gostei dele, pois é muito organizado.
+Quase tudo nele segue regras simples.
+Divirta-se aprendendo!
